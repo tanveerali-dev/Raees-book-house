@@ -1,5 +1,9 @@
 # Rais Doultana Book House — Website
 
+A full-stack wholesale book dealer website built with HTML, CSS, Bootstrap, vanilla JavaScript, PHP and MySQL.
+<<<<<<< HEAD
+# Rais Doultana Book House — Website
+
 A full-stack wholesale book dealer website built with **HTML, CSS, Bootstrap-style responsive layout, vanilla JavaScript, PHP and MySQL**.
 
 Public site: attractive animated homepage → Main Categories (Publisher / Countries / School) → Categories → Sections (Parts) → Books, each with a **WhatsApp order button**.
@@ -127,3 +131,6 @@ Then upload the new files (overwriting the old ones), and:
 
 1. Go to **Admin → Main Categories** and upload the image the client designed for Publisher, Countries and School.
 2. Go to **Admin → Categories** and open each existing category once — it will currently show "Publisher" selected by default — and pick the correct Main Category for it.
+=======
+# Raees-book-house
+>>>>>>> 38580a15f01bd9b7adfb946df3344b0fc7c70b6d
