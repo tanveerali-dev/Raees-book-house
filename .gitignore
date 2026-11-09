@@ -1,0 +1,9 @@
+# Live database credentials, never commit these
+config/db.php
+
+# User-uploaded images (kept out of the repo)
+uploads/books/*
+uploads/categories/*
+uploads/logo_*
+!uploads/books/.gitkeep
+!uploads/categories/.gitkeep
